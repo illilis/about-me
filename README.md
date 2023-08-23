@@ -3,6 +3,7 @@
 # Василькова Полина
 
 ![Василькова Полина](./img/photo.jpg)
+
 _@illilis_
 
 ## Факты
@@ -21,6 +22,7 @@ _@illilis_
 Любые оттенки зеленого, но особенно: цвет 2017 года от PANTONE
 
 ![Greeny](./img/color.jpg)
+
 _PANTONE 15-0343 Greenery_
 
 ## Моя любимая цитата
@@ -43,4 +45,4 @@ _© J.R.R. Tolkien_
 
 `GitHub`: [@illilis](https://github.com/illilis)
 
-`e-mail`: illilis@mail.ru
+`e-mail`: [illilis@mail.ru](illilis@mail.ru)
