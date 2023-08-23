@@ -1,8 +1,8 @@
-![header](img\header.png)
+![header](./img/header.png)
 
 # Василькова Полина
 
-![Василькова Полина](img\photo.jpg)
+![Василькова Полина](./img/photo.jpg)
 _@illilis_
 
 ## Факты
@@ -14,13 +14,13 @@ _@illilis_
 - больше всего на свете люблю свою кошку Касю
 
 
-![---](img\001.png)
+![---](./img/001.png)
 
 ## Мой любимый цвет:
 
 Любые оттенки зеленого, но особенно: цвет 2017 года от PANTONE
 
-![Greeny](img\color.jpg)
+![Greeny](./img/color.jpg)
 _PANTONE 15-0343 Greenery_
 
 ## Моя любимая цитата
@@ -30,7 +30,7 @@ but to make a world inside which the green sun will be credible will probably re
 
 _© J.R.R. Tolkien_
 
-![---](img\002.png)
+![---](./img/002.png)
 
 ## Мой план смены специализации
 
